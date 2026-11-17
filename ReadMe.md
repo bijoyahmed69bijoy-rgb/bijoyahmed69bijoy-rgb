@@ -14,11 +14,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bijoyahmed69bijoy-rgb&limit=5&theme=prussian&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=bijoyahmed69bijoy-rgb&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
